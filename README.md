@@ -1,8 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Paolo Almeida 👋
+
+💻 Software Engineer at @itau and Community Leader at @angularSP <br>
+🏡 Brazilian, Based in São Paulo, SP
+
+### You can find me on
+
+⚡ [Linkedin](https://www.linkedin.com/in/paoloalmeida/) <br>
+🐦 [Twitter](https://twitter.com/paolo_almeida) <br>
+⚛️ [My site](https://paoloalmeida.github.io) <br>
 
 <!--
-**paoloalmeida/paoloalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
