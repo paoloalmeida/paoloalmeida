@@ -1,6 +1,6 @@
 ### Hi there, I'm Paolo Almeida 👋
 
-💻 Software Engineer at @itau and Community Leader at @angularSP <br>
+💻 Developer Advocate at @itau and Community Leader at @angularSP <br>
 🏡 Brazilian, Based in São Paulo, SP
 
 ### You can find me on
