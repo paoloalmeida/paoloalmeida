@@ -1,23 +1,18 @@
-### Hi there, I'm Paolo Almeida 👋
+### Hi there, I'm Paolo Almeida 🤓
 
 💻 Developer Advocate at @itau and Community Leader at @angularSP <br>
-🏡 Brazilian, Based in São Paulo, SP
+🏡 Brazilian, Based in Barueri, SP
 
 ### You can find me on
 
-⚡ [Linkedin](https://www.linkedin.com/in/paoloalmeida/) <br>
-🐦 [Twitter](https://twitter.com/paolo_almeida) <br>
-⚛️ [My site](https://paoloalmeida.github.io) <br>
+[![linkedin badge](https://img.shields.io/badge/paoloalmeida-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/paoloalmeida/)
+[![twitter badge](https://img.shields.io/badge/@paoloalmeida-30302f?style=flat&logo=twitter)](https://twitter.com/paolo_almeida)
+[![instagram badge](https://img.shields.io/badge/@paoloalmeida_-30302f?style=flat&logo=instagram)](https://instagram.com/@paoloalmeida_)
 
-<!--
-Here are some ideas to get you started:
+- 🤘 I’m currently working on Astro + Svelte + Tailwind projects 
+- 👯 I’m looking to collaborate on Projects and Mentoring
+- 🤔 I’m looking for help with Open Source
+- 📫 How to reach me: Linkedin @paoloalmeida
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
