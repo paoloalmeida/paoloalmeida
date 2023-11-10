@@ -7,7 +7,7 @@
 
 [![linkedin badge](https://img.shields.io/badge/paoloalmeida-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/paoloalmeida/)
 [![twitter badge](https://img.shields.io/badge/@paoloalmeida-30302f?style=flat&logo=twitter)](https://twitter.com/paolo_almeida)
-[![instagram badge](https://img.shields.io/badge/@paoloalmeida_-30302f?style=flat&logo=instagram)](https://instagram.com/paoloalmeida_)
+[![instagram badge](https://img.shields.io/badge/@paoloalmeida_-30302f?style=flat&logo=instagram)](https://instagram.com/paoloalmeida)
 
 
 
